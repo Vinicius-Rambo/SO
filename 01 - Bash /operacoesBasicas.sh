@@ -58,6 +58,7 @@ echo "8. Removendo arquivos e pastas..."
 rm -f arquivo1.txt notas.txt
 rm -r backup
 echo "Pastas e arquivos removidos"
+enter
 
 #Removendo a pasta
 echo "9. Voltando ao diretorio e apagando o projeto"
